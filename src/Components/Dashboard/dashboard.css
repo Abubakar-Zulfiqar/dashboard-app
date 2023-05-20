@@ -1,0 +1,10 @@
+.card {
+    width: 18rem;
+    margin-top: 5rem;
+}
+
+.col {
+    display: grid;
+    grid-template-columns: repeat(4);
+    gap: 0.5rem;
+}
